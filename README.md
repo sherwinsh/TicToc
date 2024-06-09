@@ -1,0 +1,1 @@
+It's a TicTacToe game with Kotlin Jetpack Compose, based on the Udemy course "Kotlin and Android Jetpack Compose Masterclass"
